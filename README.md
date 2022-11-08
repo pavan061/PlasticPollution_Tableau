@@ -11,6 +11,7 @@ The research questions I tried answering to:
 5. Relation between Coastal plastic pollution and the highest plastic-producing countries.
 <br></br>
 Description of column names in tables:
+<br></br>
 **Code, Entity:** It consists of every country code present in the world as per the ISO country code.
 <br></br>
 **Total Mismanaged plastic waste:** Describes the statistics of the total mismanaged plastic waste in Million tones.
